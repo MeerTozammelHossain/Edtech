@@ -3,7 +3,7 @@
 
 This project explores user behavior and conversion patterns on an EdTech platform using SQL-based analysis of A/B testing data. It aims to uncover insights into user engagement, conversion optimization, and marketing performance.
 
----
+--- 
 
 ## 📁 Project Structure
 
